@@ -1,11 +1,15 @@
 # Maven
 target/
 
-# IDEs
+# Eclipse / STS
 .classpath
 .project
 .settings/
+
+# IntelliJ
 .idea/
+
+# VS Code
 .vscode/
 
 # OS
