@@ -1,6 +1,13 @@
-/target
+# Maven
+target/
 
-./mvnw
-./mvnw.cmd
+# IDEs
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
 
-./settings
+# OS
+.DS_Store
+
